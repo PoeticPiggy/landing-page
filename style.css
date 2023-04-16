@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+}
+
+/*All stuff regarding header and hero :] */
+.header {
+    background-color: #1f2937;
+    padding: 0px 150px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.links {
+    font-size: 18px;
+    margin-top: 0;
+    gap: 16px;
+    color: #e5e7eb;
+    display: flex;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.hero .title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero {
+    padding: 80px 0px;
+    display: flex;
+}
+
+.hero .container {
+    padding-right: 50px;
+}
+
+.sign-up {
+    background-color: #3882f6;
+    padding: 2px 20px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
