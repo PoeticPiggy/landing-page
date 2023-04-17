@@ -45,6 +45,11 @@ ul {
     padding-right: 50px;
 }
 
+.subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
 .sign-up {
     background-color: #3882f6;
     padding: 2px 20px;
