@@ -45,7 +45,7 @@ ul {
     padding-right: 50px;
 }
 
-.subtext {
+.header .subtext {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -56,3 +56,38 @@ ul {
     margin-top: 10px;
     border-radius: 5px;
 }
+
+/* All parts below regarding information section */
+
+.information {
+    margin-bottom: 75px;
+}
+
+.information .title {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 30px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.information .content {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap: 25px;
+
+}
+
+.information .subtext {
+    font-size: 18px;
+    max-width: 220px;
+}
+
+img {
+    border-radius: 7px;
+}
+
+
