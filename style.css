@@ -90,4 +90,21 @@ img {
     border-radius: 7px;
 }
 
+/* All parts below regarding quotes section */
 
+.section3 {
+    background-color: #e5e7eb;
+    padding: 100px 270px;
+}
+
+.quote {
+    font-family: 'light-italic';
+    font-size: 36px;
+    font-weight: 100;
+}
+
+.thor {
+    font-weight: 800;
+    display: flex;
+    justify-content: flex-end;
+}
